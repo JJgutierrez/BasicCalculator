@@ -1,0 +1,8 @@
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+c:\users\juan\documents\visual studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.ResolveComReference.cache
